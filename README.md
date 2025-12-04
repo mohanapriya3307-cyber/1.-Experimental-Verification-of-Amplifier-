@@ -159,7 +159,9 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+
+![WhatsApp Image 2025-12-04 at 19 53 08_f8ed1fab](https://github.com/user-attachments/assets/d49ff357-f582-44f5-b455-b3fc3ade0dfe)
+
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
@@ -167,6 +169,9 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
+
+![WhatsApp Image 2025-12-04 at 19 56 10_be8f86e5](https://github.com/user-attachments/assets/3f5394d9-30f9-449e-909b-241d043ef051)
+
 
 
 ### **Differential Amplifier**
@@ -195,15 +200,17 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-12-04 at 19 55 29_1f01dfb3](https://github.com/user-attachments/assets/0f816d5b-170c-428e-8842-73df79c7630a)
 
 ---
+
+## CALCULATION
+
+![WhatsApp Image 2025-12-04 at 19 54 51_92e846f1](https://github.com/user-attachments/assets/72e99847-65e3-415a-b2d4-a0ae9c11fc3a)
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-04 at 19 54 08_5308a629](https://github.com/user-attachments/assets/f83ad6a9-e320-4ac9-a0d8-ed694de12858)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
