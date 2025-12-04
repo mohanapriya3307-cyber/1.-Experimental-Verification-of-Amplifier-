@@ -51,7 +51,9 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+
+![WhatsApp Image 2025-12-04 at 19 39 04_a16e32a5](https://github.com/user-attachments/assets/ede6a7db-1a89-458e-93bb-14b595960f6d)
+
 
 MODEL GRAPH 
 
@@ -60,13 +62,8 @@ MODEL GRAPH
 
 
 DESIGN:
+![WhatsApp Image 2025-12-04 at 19 39 08_6f054906](https://github.com/user-attachments/assets/10c7170c-b7e9-4cc6-9446-0b1dcb7526a7)
 
-Inverting amplifier:
-
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
 
 PROCEDURE:
 Inverting amplifier:
@@ -82,16 +79,18 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
+![WhatsApp Image 2025-12-04 at 19 39 05_e8ef1ec8](https://github.com/user-attachments/assets/a8f13773-db96-4854-8bbf-7da4e1f5e8d1)
+			
+ ## CALCULATION
+
+ ![WhatsApp Image 2025-12-04 at 19 39 06_e689fc9e](https://github.com/user-attachments/assets/7f94a02e-e186-4e3b-a3dd-91f5179e1e8f)
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-12-04 at 19 39 07_f1df902e](https://github.com/user-attachments/assets/26b84fe8-cc51-47e5-a063-cf6fecc16c80)
 
 
 ---
