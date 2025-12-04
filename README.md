@@ -108,7 +108,8 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
+![WhatsApp Image 2025-12-04 at 19 47 18_0cc81e5c](https://github.com/user-attachments/assets/00f3176b-17ed-48ac-a4fb-c703355f87ee)
+
 
 ---
 
@@ -129,17 +130,26 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-12-04 at 19 47 44_2bdb385d](https://github.com/user-attachments/assets/d00a2f1f-c648-4f17-85c5-deb4ee7077d3)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-04 at 19 47 58_2fa9b226](https://github.com/user-attachments/assets/3f1991bb-0ccb-423d-ad3f-5a7c85a683a7)
+
+
 
 ---
+## DESIGN 
+
+![WhatsApp Image 2025-12-04 at 19 48 08_2d6df4d8](https://github.com/user-attachments/assets/4f871f58-065f-4ab4-9511-50a2975b44e9)
+
+## CALCULATION
+
+![WhatsApp Image 2025-12-04 at 19 47 32_8dfc4564](https://github.com/user-attachments/assets/da79388f-d1a2-40ee-bdd1-9e4afde6f8a7)
+
+
 ## DIFFERENTIAL AMPLIFIER
 
 A circuit that amplifies the **difference** between two input signals is called a **Differential Amplifier**.  
