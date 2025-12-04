@@ -225,7 +225,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-12-04 at 19 56 46_85bc2509](https://github.com/user-attachments/assets/978f3b43-1ed5-4f10-aa50-5f0d4b70c303)
 
 PROCEDURE:
 
@@ -241,14 +241,21 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-12-04 at 20 00 12_2b30f8ec](https://github.com/user-attachments/assets/aa787b69-aa2d-4f17-9a14-5badcdbef2f4)
 
 ---
+## CALCULATION
+
+![WhatsApp Image 2025-12-04 at 19 59 04_d7283a5a](https://github.com/user-attachments/assets/437cc3da-4f75-45fd-8231-6ee6d81ee8f5)
+
+## DESIGN
+
+ ![WhatsApp Image 2025-12-04 at 19 59 29_7e22f8c1](https://github.com/user-attachments/assets/3ee4a196-3d81-42f1-94f1-985973955722)
+
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-12-04 at 19 57 57_eb11c681](https://github.com/user-attachments/assets/971a7acb-d33e-4f98-88df-5e2450f91f89)
 
 
 ---
